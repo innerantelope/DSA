@@ -1,0 +1,64 @@
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetArchive](https://github.com/anujlunawat/LeetArchive)
+
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/innerantelope/DSA/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0229-majority-element-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/innerantelope/DSA/tree/main/LeetCode/2265-partition-array-according-to-given-pivot) |
+| [2714-left-and-right-sum-differences](https://github.com/innerantelope/DSA/tree/main/LeetCode/2714-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/innerantelope/DSA/tree/main/LeetCode/2714-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/innerantelope/DSA/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0229-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0142-linked-list-cycle-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/innerantelope/DSA/tree/main/LeetCode/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/innerantelope/DSA/tree/main/LeetCode/2265-partition-array-according-to-given-pivot) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/innerantelope/DSA/tree/main/LeetCode/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/innerantelope/DSA/tree/main/LeetCode/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/innerantelope/DSA/tree/main/LeetCode/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/innerantelope/DSA/tree/main/LeetCode/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/innerantelope/DSA/tree/main/LeetCode/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/innerantelope/DSA/tree/main/LeetCode/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/innerantelope/DSA/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/innerantelope/DSA/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/innerantelope/DSA/tree/main/LeetCode/0215-kth-largest-element-in-an-array) |
+<!---LeetCode Topics End-->
